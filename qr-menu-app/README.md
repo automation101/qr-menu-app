@@ -1,5 +1,20 @@
-# Vue 3 + Vite
+# 🍔 QR Menu App – Cheeseburger Bobby's
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A mobile-friendly, Vue-based digital menu for restaurant table QR codes.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Features
+- Responsive design
+- Sticky header with logo and branding
+- Categorized items (Burgers, Fries, Drinks)
+- Hover card animation
+- Easy to scale for other restaurants
+
+## Live Demo
+👉 Coming soon on Netlify!
+
+## Screenshots
+_(Insert screenshots here after deployment)_
+
+---
+
+Made with ❤️ by [automation101](https://github.com/automation101)
